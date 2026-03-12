@@ -1,10 +1,18 @@
 #Football Club Logo Identification Model
 
 I. Overview
+
 Football Club Logo Identifier is a deep learning-based image classification system that recognizes logos of 6 major European football clubs from an uploaded image. Users simply upload a photo and the model predicts which club the logo belongs to along with a confidence score.
 
 II. Supported Clubs
-ClubLeague🔴 BarcelonaLa Liga🔴 Bayern MünchenBundesliga🔴 LiverpoolPremier League🔴 Manchester UnitedPremier League⚫ AC MilanSerie A⚪ Real MadridLa Liga
+
+Club                     League
+Barcelona                La Liga
+Bayern München          Bundesliga
+Liverpool              Premier League
+Manchester United      Premier League
+AC Milan                  Serie A
+Real Madrid                La Liga
 
 III. Features
 
